@@ -1,3 +1,4 @@
+# malr fmail file
 from operator import le
 import pandas as pd
 info={'Gender':['Male','Female','Female','Male','Female'],'Position':['Head','Asst.Prof','Associate Prof','Asst.Prof','Asst.Prof.']}
